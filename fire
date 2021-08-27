@@ -1,391 +1,595 @@
 #EXTM3U
-#EXTINF:-1,DE:ARD HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/185
-#EXTINF:-1,DE:ZDF HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/182
-#EXTINF:-1,DE:WDR HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/208
-#EXTINF:-1,DE:RTL HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/196
-#EXTINF:-1,DE:SAT 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/193
-#EXTINF:-1,DE:VOX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/191
-#EXTINF:-1,DE:PRO 7 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/187
-#EXTINF:-1,DE:RTL 2 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/203
-#EXTINF:-1,DE:KABEL EINS HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/205
-#EXTINF:-1,AT:Servus Tv Austria
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/334
-#EXTINF:-1,DE:SAT 1 GOLD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/195
-#EXTINF:-1,DE:SUPER RTL HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/222
-#EXTINF:-1,DE:RTL NITRO
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/199
-#EXTINF:-1,DE:RTL CRIME
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/200
-#EXTINF:-1,DE:RTL PASSION
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/201
-#EXTINF:-1,DE:PRO 7 MAXX
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/189
-#EXTINF:-1,DE:PRO 7 FUN
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/190
-#EXTINF:-1,DE:ARTE HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/206
-#EXTINF:-1,DE:3 SAT HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/207
-#EXTINF:-1,DE:ZDF NEO HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/184
-#EXTINF:-1,DE:SIXX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/241
-#EXTINF:-1,DE:RTL PLUS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/211
-#EXTINF:-1,DE:13TH Street HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/243
-#EXTINF:-1,DE:FOX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/246
-#EXTINF:-1,DE:ROMANCE TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/248
-#EXTINF:-1,DE:KINOWELT TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/249
-#EXTINF:-1,DE:KABEL EINS DOKU
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/214
-#EXTINF:-1,DE:HISTORY CHANNEL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/231
-#EXTINF:-1,DE:ANIMAL PLANET HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/232
-#EXTINF:-1,DE:NAT GEO HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/233
-#EXTINF:-1,DE:NAT GEO WILD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/234
-#EXTINF:-1,DE:DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/235
-#EXTINF:-1,DE:SPIEGEL GESICHTE
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/237
-#EXTINF:-1,DE:SKY 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/253
-#EXTINF:-1,DE:SKY KRIMI HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/254
-#EXTINF:-1,DE:SKY CINEMA HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/259
-#EXTINF:-1,DE:SKY CINEMA  +1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/260
-#EXTINF:-1,DE:SKY CINEMA +24 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/261
-#EXTINF:-1,DE:SKY CINEMA ACTION HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/262
-#EXTINF:-1,DE:SKY ATLANTIC HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/263
-#EXTINF:-1,DE:SKY CINEMA COMEDY HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/264
-#EXTINF:-1,DE:SKY CINEMA EMOTION HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/265
-#EXTINF:-1,DE:SKY CINEMA HITS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/266
-#EXTINF:-1,DE:SKY CINEMA NOSTALGIE
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/267
-#EXTINF:-1,DE:SKY CINEMA FAMILY HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/279
-#EXTINF:-1,DE:SKY SELECT 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/280
-#EXTINF:-1,DE:SKY SELECT 2 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/281
-#EXTINF:-1,DE:SKY SELECT 3 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/282
-#EXTINF:-1,DE:SKY SELECT 4 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/283
-#EXTINF:-1,DE:SKY SELECT 5 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/284
-#EXTINF:-1,DE:SKY SELECT 6 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/285
-#EXTINF:-1,DE:SPORT 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/295
-#EXTINF:-1,DE:SPORT 1+ HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/296
-#EXTINF:-1,DE:SKY SPORT 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/315
-#EXTINF:-1,DE:SKY SPORT 2 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/318
-#EXTINF:-1,DE:SKY SPORT 3 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/320
-#EXTINF:-1,DE:SKY BUNDESLIGA 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/301
-#EXTINF:-1,DE:SKY BUNDESLIGA 2 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/303
-#EXTINF:-1,DE:ZDF
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/183
-#EXTINF:-1,DE:ARD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/186
-#EXTINF:-1,DE:PRO 7
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/188
-#EXTINF:-1,DE:VOX
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/192
-#EXTINF:-1,DE:SAT 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/194
-#EXTINF:-1,DE:RTL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/197
-#EXTINF:-1,DE:RTL LIVING
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/202
-#EXTINF:-1,DE:RTL 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/204
-#EXTINF:-1,DE:SILVERLINE
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/209
-#EXTINF:-1,DE:DELUXE MUSIC
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/210
-#EXTINF:-1,DE:TV AKTUEL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/212
-#EXTINF:-1,DE:FIX&FOXI
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/218
-#EXTINF:-1,DE:KIKA
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/220
-#EXTINF:-1,DE:TOGGO PLUS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/221
-#EXTINF:-1,DE:NICKELEDEON HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/223
-#EXTINF:-1,DE:CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/224
-#EXTINF:-1,DE:BOOMERANG HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/225
-#EXTINF:-1,DE:DISNEY JUNIOR
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/226
-#EXTINF:-1,DE:DISNEY XD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/227
-#EXTINF:-1,DE:JUNIOR HD (6-20 Uhr)
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/228
-#EXTINF:-1,DE:DISNEY CHANNEL HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/229
-#EXTINF:-1,DE:DISNEY CINEMAGIC
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/230
-#EXTINF:-1,DE:SONY AXN HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/239
-#EXTINF:-1,DE:DMAX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/240
-#EXTINF:-1,DE:Syfy HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/242
-#EXTINF:-1,DE:VIVA/COMEDY CENTRAL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/250
-#EXTINF:-1,DE:SONY Entertainment TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/251
-#EXTINF:-1,DE:EURONEWS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/215
-#EXTINF:-1,DE:TAGESSCHAU 24
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/216
-#EXTINF:-1,DE:NTV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/217
-#EXTINF:-1,DE:E! ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/236
-#EXTINF:-1,DE:N24 NEWS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/16590
-#EXTINF:-1,DE:TLC HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/252
-#EXTINF:-1,DE:TNT COMEDY
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/255
-#EXTINF:-1,DE:TNT FILM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/256
-#EXTINF:-1,DE:TNT SERIE HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/257
-#EXTINF:-1,DE:SKY SELECT 7 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/286
-#EXTINF:-1,DE:SKY SELECT 8 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/287
-#EXTINF:-1,DE:SKY SELECT 9 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/288
-#EXTINF:-1,DE:SKY SELECT 10 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/289
-#EXTINF:-1,*****GERMANY SPORT*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/290
-#EXTINF:-1,DE:SKY SPORT NEWS HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/313
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/291
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/292
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/293
-#EXTINF:-1,DE:MOTORVISION TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/294
-#EXTINF:-1,DE:SPORT DIGITAL HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/297
-#EXTINF:-1,DE:SKY BUNDESLIGA 1 SD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/300
-#EXTINF:-1,DE:SKY BUNDESLIGA 3 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/305
-#EXTINF:-1,DE:SKY BUNDESLIGA 4 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/307
-#EXTINF:-1,DE:SKY BUNDESLIGA 5 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/309
-#EXTINF:-1,DE:SKY BUNDESLIGA 6 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/311
-#EXTINF:-1,DE:SKY SPORT 1 SD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/314
-#EXTINF:-1,DE:SKY SPORT 4 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/322
-#EXTINF:-1,DE:SKY SPORT 5 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/324
-#EXTINF:-1,DE:SKY SPORT 6 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/326
-#EXTINF:-1,*****AUSTRIA CHANNEL*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4954
-#EXTINF:-1,AT:SKY SPORT AUSTRIA
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/345
-#EXTINF:-1,AT:ORF SPORT+ HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/344
-#EXTINF:-1,AT:ORF 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/328
-#EXTINF:-1,AT:ORF 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/329
-#EXTINF:-1,AT:ORF 3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/330
-#EXTINF:-1,AT:PULS 4
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/333
-#EXTINF:-1,AT:ATV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/331
-#EXTINF:-1,AT:ATV 2HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/332
-#EXTINF:-1,AL:K Sport 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/341
-#EXTINF:-1,AT:OE24 TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/340
-#EXTINF:-1,AT:KRONE HIT
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/343
-#EXTINF:-1,AT:M4
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/339
-#EXTINF:-1,AT:FS1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/338
-#EXTINF:-1,AT:K TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/337
-#EXTINF:-1,AT:DORF TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/336
-#EXTINF:-1,AT:R9 TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/342
-#EXTINF:-1,AT:W 24
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/335
+#EXTINF:-1,DE: TELE 5
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2221
+#EXTINF:-1,DE: WELT
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2222
+#EXTINF:-1,DE: UNIVERSAL TV
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2223
+#EXTINF:-1,DE: TLC
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2224
+#EXTINF:-1,DE: tagesschau24 HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2225
+#EXTINF:-1,DE: SUPER RTL
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2226
+#EXTINF:-1,DE: Sky Sport News FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2227
+#EXTINF:-1,DE: Sky Cinema Nostalgie
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2228
+#EXTINF:-1,DE: Sky Cinema Hits HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2229
+#EXTINF:-1,DE: Sky Cinema Hits
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2230
+#EXTINF:-1,DE: Sky Cinema HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2231
+#EXTINF:-1,DE: Sky Cinema Family
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2232
+#EXTINF:-1,DE: Sky Cinema Bonanza
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2233
+#EXTINF:-1,DE: n-tv
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2234
+#EXTINF:-1,DE: KiKA
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2235
+#EXTINF:-1,DE: Kabel Eins Doku HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2236
+#EXTINF:-1,DE: DMAX
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2237
+#EXTINF:-1,DE: Disney Channel
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2238
+#EXTINF:-1,DE: BR Fernsehen
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2239
+#EXTINF:-1,DE: Sky Sport News
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2240
+#EXTINF:-1,DE: Sky Cinema + 24
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2241
+#EXTINF:-1,DE: Crime+Investigation
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2242
+#EXTINF:-1,[INFO] Corona NEWS LIVE
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2243
+#EXTINF:-1,DE | Das Erste HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2244
+#EXTINF:-1,DE | Das Erste HD (WEB)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2245
+#EXTINF:-1,DE | ZDF HD (WEB)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2246
+#EXTINF:-1,DE | Sat.1 HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2247
+#EXTINF:-1,DE | Sat.1 FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2248
+#EXTINF:-1,DE | SAT.1 FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2249
+#EXTINF:-1,DE | RTL HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2250
+#EXTINF:-1,DE | RTL FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2251
+#EXTINF:-1,DE | RTL FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2252
+#EXTINF:-1,DE | RTL 4K
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2253
+#EXTINF:-1,DE | RTLZWEI HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2254
+#EXTINF:-1,DE | RTLZWEI FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2255
+#EXTINF:-1,DE | RTLZWEI FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2256
+#EXTINF:-1,DE | ProSieben HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2257
+#EXTINF:-1,DE | ProSieben FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2258
+#EXTINF:-1,DE | ProSieben FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2259
+#EXTINF:-1,DE | Kabel eins HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2260
+#EXTINF:-1,DE | Kabel eins FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2261
+#EXTINF:-1,DE | kabel eins FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2262
+#EXTINF:-1,DE | VOX FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2263
+#EXTINF:-1,DE | VOX FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2264
+#EXTINF:-1,DE | Sixx HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2265
+#EXTINF:-1,DE | Sixx FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2266
+#EXTINF:-1,DE | SIXX FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2267
+#EXTINF:-1,#####[ SPARTENSENDER ]#####
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2268
+#EXTINF:-1,DE | 3sat
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2269
+#EXTINF:-1,DE | Comedy Central HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2270
+#EXTINF:-1,DE | Comedy Central FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2271
+#EXTINF:-1,DE | Kabel eins Classics
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2272
+#EXTINF:-1,DE | RTL Nitro HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2273
+#EXTINF:-1,DE | RTL Nitro FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2274
+#EXTINF:-1,DE | NITRO FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2275
+#EXTINF:-1,DE | One HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2276
+#EXTINF:-1,DE | ProSieben Fun HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2277
+#EXTINF:-1,DE | ProSieben Maxx HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2278
+#EXTINF:-1,DE | ProSieben Maxx FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2279
+#EXTINF:-1,DE | Pro7 MAXX FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2280
+#EXTINF:-1,DE | RTL Passion FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2281
+#EXTINF:-1,DE | RTL Living FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2282
+#EXTINF:-1,DE | RTL Crime HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2283
+#EXTINF:-1,DE | RTLplus
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2284
+#EXTINF:-1,DE | Sat.1 Emotions
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2285
+#EXTINF:-1,DE | Sat.1 Gold HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2286
+#EXTINF:-1,DE | SAT.1 Gold FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2287
+#EXTINF:-1,DE | Servus TV HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2288
+#EXTINF:-1,DE | Tele 5 HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2289
+#EXTINF:-1,DE | TELE 5 FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2290
+#EXTINF:-1,DE | ZDFneo HD (Web)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2291
+#EXTINF:-1,DE | Sonnenklar TV
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2292
+#EXTINF:-1,#####[ REGIONAL ]#####
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2293
+#EXTINF:-1,DE | BR HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2294
+#EXTINF:-1,DE | HR HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2295
+#EXTINF:-1,DE | MDR HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2296
+#EXTINF:-1,DE | NDR Hamburg HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2297
+#EXTINF:-1,DE | NDR Mecklenburg-Vorpommern HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2298
+#EXTINF:-1,DE | NDR Niedersachsen HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2299
+#EXTINF:-1,DE | NDR Schleswig-Holstein HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2300
+#EXTINF:-1,DE | RBB HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2301
+#EXTINF:-1,DE | SR HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2302
+#EXTINF:-1,DE | SWR HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2303
+#EXTINF:-1,#####[ KIDS ]#####
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2304
+#EXTINF:-1,DE | Boomerang
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2305
+#EXTINF:-1,DE | Cartoon Network
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2306
+#EXTINF:-1,DE | Cartoon Network FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2307
+#EXTINF:-1,DE | Disney Cinemagic HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2308
+#EXTINF:-1,DE | Disney Junior HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2309
+#EXTINF:-1,DE | Disney Junior FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2310
+#EXTINF:-1,DE | Disney Channel HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2311
+#EXTINF:-1,DE | Disney Channel FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2312
+#EXTINF:-1,DE | Junior
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2313
+#EXTINF:-1,DE | KiKa HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2314
+#EXTINF:-1,DE | KiKA FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2315
+#EXTINF:-1,DE | Nick Jr.
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2316
+#EXTINF:-1,DE | Nickelodeon AT
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2317
+#EXTINF:-1,DE | Super RTL HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2318
+#EXTINF:-1,DE | SUPER RTL FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2319
+#EXTINF:-1,DE | Toggo Plus
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2320
+#EXTINF:-1,#####[ SKY DE ]#####
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2321
+#EXTINF:-1,DE | 13th Street HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2322
+#EXTINF:-1,DE | 13th Street FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2323
+#EXTINF:-1,DE | 13th Street FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2324
+#EXTINF:-1,DE | E! Entertainm. FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2325
+#EXTINF:-1,DE | Sky Fox HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2326
+#EXTINF:-1,DE | FOX FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2327
+#EXTINF:-1,DE | Fox FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2328
+#EXTINF:-1,DE | Sky 1 HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2329
+#EXTINF:-1,DE | Sky 1 FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2330
+#EXTINF:-1,DE | Sky 1 FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2331
+#EXTINF:-1,DE | TNT Serie HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2332
+#EXTINF:-1,DE | TNT Serie FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2333
+#EXTINF:-1,DE | TNT Serie FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2334
+#EXTINF:-1,DE | TNT Film HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2335
+#EXTINF:-1,DE | TNT Film FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2336
+#EXTINF:-1,DE | TNT Film FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2337
+#EXTINF:-1,DE | TNT Comedy HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2338
+#EXTINF:-1,DE | TNT Comedy FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2339
+#EXTINF:-1,DE | TNT Comedy FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2340
+#EXTINF:-1,DE | Sky Atlantic HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2341
+#EXTINF:-1,DE | Sky Atlantic FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2342
+#EXTINF:-1,DE | Sky Atlantic FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2343
+#EXTINF:-1,DE | Sky Action HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2344
+#EXTINF:-1,DE | Sky Cinema Action FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2345
+#EXTINF:-1,DE | Sky Cinema Action FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2346
+#EXTINF:-1,DE | Sky Cinema Fun
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2347
+#EXTINF:-1,DE | Sky Cinema Family HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2348
+#EXTINF:-1,DE | Sky Cinema Family FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2349
+#EXTINF:-1,DE | Sky Cinema Family FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2350
+#EXTINF:-1,DE | Sky Best Of HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2351
+#EXTINF:-1,DE | Sky Best Of FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2352
+#EXTINF:-1,DE | Sky Best Of FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2353
+#EXTINF:-1,DE | Sky Cinema Special FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2354
+#EXTINF:-1,DE | Sky Cinema Premieren HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2355
+#EXTINF:-1,DE | Sky Cinema Premieren FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2356
+#EXTINF:-1,DE | Sky Cinema Premieren FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2357
+#EXTINF:-1,DE | Sky Cinema + 24 HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2358
+#EXTINF:-1,DE | Sky Cinema Premieren +24 FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2359
+#EXTINF:-1,DE | Sky Cinema Premieren +24 FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2360
+#EXTINF:-1,DE | Sky Serien & Shows FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2361
+#EXTINF:-1,DE | Sky Cinema + 1 HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2362
+#EXTINF:-1,DE | Sky Cinema + 1 FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2363
+#EXTINF:-1,DE | Sky Thriller FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2364
+#EXTINF:-1,DE | Sky Krimi HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2365
+#EXTINF:-1,DE | Sky Krimi FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2366
+#EXTINF:-1,DE | Sky Cinema Classics
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2367
+#EXTINF:-1,DE | Universal TV HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2368
+#EXTINF:-1,DE | Universal TV FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2369
+#EXTINF:-1,DE | Universal TV FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2370
+#EXTINF:-1,DE | SYFY HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2371
+#EXTINF:-1,DE | SYFY FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2372
+#EXTINF:-1,DE | Sony AXN HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2373
+#EXTINF:-1,DE | Silverline
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2374
+#EXTINF:-1,DE | Kinowelt TV
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2375
+#EXTINF:-1,DE | Zee One FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2376
+#EXTINF:-1,DE | Romance TV
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2377
+#EXTINF:-1,DE | Heimatkanal
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2378
+#EXTINF:-1,#####[ DOKU-NEWS-KULTUR ]#####
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2379
+#EXTINF:-1,DE | DMAX HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2380
+#EXTINF:-1,DE | DMAX FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2381
+#EXTINF:-1,DE | Discovery HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2382
+#EXTINF:-1,DE | Discovery FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2383
+#EXTINF:-1,DE | Animal Planet HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2384
+#EXTINF:-1,DE | Animal Planet FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2385
+#EXTINF:-1,DE | Nat Geo HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2386
+#EXTINF:-1,DE | NatGeo FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2387
+#EXTINF:-1,DE | Nat Geo Wild HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2388
+#EXTINF:-1,DE | Nat Geo Wild FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2389
+#EXTINF:-1,DE | GEO TV HD FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2390
+#EXTINF:-1,DE | Spiegel TV Geschichte HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2391
+#EXTINF:-1,DE | Spiegel Geschichte FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2392
+#EXTINF:-1,DE | Spiegel TV Wissen
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2393
+#EXTINF:-1,DE | History HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2394
+#EXTINF:-1,DE | History FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2395
+#EXTINF:-1,DE | Planet HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2396
+#EXTINF:-1,DE | N24 Doku
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2397
+#EXTINF:-1,DE | Kabel eins Doku
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2398
+#EXTINF:-1,DE | Arte HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2399
+#EXTINF:-1,DE | E! FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2400
+#EXTINF:-1,DE | TLC HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2401
+#EXTINF:-1,DE | TLC FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2402
+#EXTINF:-1,DE | Phoenix HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2403
+#EXTINF:-1,DE | Crime   Investigation HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2404
+#EXTINF:-1,DE | Tagesschau 24
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2405
+#EXTINF:-1,DE | WELT FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2406
+#EXTINF:-1,DE | n-tv HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2407
+#EXTINF:-1,#####[ SPORT ]#####
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2408
+#EXTINF:-1,DE | Sky Sport News HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2409
+#EXTINF:-1,DE | DAZN Bar 1 HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2410
+#EXTINF:-1,DE | DAZN Bar 1 FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2411
+#EXTINF:-1,DE | DAZN Bar 2 HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2412
+#EXTINF:-1,DE | DAZN Bar 2 FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2413
+#EXTINF:-1,DE | DAZN 1 Bar FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2414
+#EXTINF:-1,DE | DAZN 2 Bar FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2415
+#EXTINF:-1,DE | Sport 1 HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2423
+#EXTINF:-1,DE | SPORT 1 FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2424
+#EXTINF:-1,DE | Sport 1+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2425
+#EXTINF:-1,DE | Sportdigital Fußball FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2426
+#EXTINF:-1,DE | SPORTDIGITAL FUSSBALL FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2427
+#EXTINF:-1,DE | Motorvision TV
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2428
+#EXTINF:-1,DE | Auto Motor Sport HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2429
+#EXTINF:-1,#####[ SKY SPORT ]#####
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2430
+#EXTINF:-1,DE | Sky Sport 1 SD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2431
+#EXTINF:-1,DE | Sky Sport 2 SD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2432
+#EXTINF:-1,DE | Sky Sport 1 HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2433
+#EXTINF:-1,DE | Sky Sport 2 HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2434
+#EXTINF:-1,DE | Sky Sport 3 HD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2435
+#EXTINF:-1,DE | Sky Sport 1 FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2436
+#EXTINF:-1,DE | Sky Sport 2 FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2437
+#EXTINF:-1,DE | Sky Sport 3 FHD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2438
+#EXTINF:-1,DE | Sky Sport 1 FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2439
+#EXTINF:-1,DE | Sky Sport 2 FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2440
+#EXTINF:-1,DE | Sky Sport Austria 1 SD (ONLY ON MATCHDAYS)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2441
+#EXTINF:-1,DE | Sky Sport Austria 2 SD (ONLY ON MATCHDAYS)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2442
+#EXTINF:-1,DE | Sky Sport Austria 3 SD (ONLY ON MATCHDAYS)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2443
+#EXTINF:-1,DE | Sky Sport Austria 4 SD (ONLY ON MATCHDAYS)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2444
+#EXTINF:-1,DE | Sky Sport Austria 1 FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2445
+#EXTINF:-1,DE | eSports1 FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2446
+#EXTINF:-1,Germany- Sky Sport Austria 2 FULL HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2447
+#EXTINF:-1,#####[ SKY BUNDESLIGA ]#####
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2448
+#EXTINF:-1,DE | Sky Sport Bundesliga 1 SD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2449
+#EXTINF:-1,DE | Sky Sport Bundesliga 2 SD (ONLY ON MATCHDAYS)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2450
+#EXTINF:-1,DE | Sky Sport Bundesliga 3 SD (ONLY ON MATCHDAYS)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2451
+#EXTINF:-1,DE | Sky Sport Bundesliga 4 SD (ONLY ON MATCHDAYS)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2452
+#EXTINF:-1,DE | Sky Sport Bundesliga 5 SD (ONLY ON MATCHDAYS)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2453
+#EXTINF:-1,DE | Sky Sport Bundesliga 6 SD (ONLY ON MATCHDAYS)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2454
+#EXTINF:-1,DE | Sky Bundesliga 1 HD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2455
+#EXTINF:-1,DE | Sky Bundesliga 2 HD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2456
+#EXTINF:-1,DE | Sky Bundesliga 3 HD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2457
+#EXTINF:-1,DE | Sky Bundesliga 4 HD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2458
+#EXTINF:-1,DE | Sky Bundesliga 5 HD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2459
+#EXTINF:-1,DE | Sky Bundesliga 6 HD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2460
+#EXTINF:-1,DE | Sky Bundesliga 7 HD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2461
+#EXTINF:-1,DE | Sky Bundesliga 8 HD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2462
+#EXTINF:-1,DE | Sky Bundesliga 9 HD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2463
+#EXTINF:-1,DE | Sky Bundesliga 10 HD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2464
+#EXTINF:-1,DE | Sky Bundesliga 1 FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2465
+#EXTINF:-1,DE | Sky Bundesliga 2 FHD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2466
+#EXTINF:-1,DE | Sky Bundesliga 3 FHD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2467
+#EXTINF:-1,DE | Sky Bundesliga 4 FHD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2468
+#EXTINF:-1,DE | Sky Bundesliga 5 FHD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2469
+#EXTINF:-1,DE | Sky Bundesliga 6 FHD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2470
+#EXTINF:-1,DE | Sky Bundesliga 7 FHD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2471
+#EXTINF:-1,DE | Sky Bundesliga 8 FHD (ONLY ON MATCHDAY)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2472
+#EXTINF:-1,DE | Sky Sport Bundesliga 1 FHD+
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2473
+#EXTINF:-1,DE | Sky Sport Bundesliga 2 FHD+ (During Games only)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2474
+#EXTINF:-1,DE | Sky Sport Bundesliga 3 FHD+ (During Games only)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2475
+#EXTINF:-1,DE | Sky Sport Bundesliga 4 FHD+ (During Games only)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2476
+#EXTINF:-1,DE | Sky Sport Bundesliga 5 FHD+ (During Games only)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2477
+#EXTINF:-1,DE | Sky Sport Bundesliga 6 FHD+ (During Games only)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2478
+#EXTINF:-1,DE | Telekom Sport (3.Liga) 1
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2479
+#EXTINF:-1,DE | Telekom Sport (3.Liga) 2
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2480
+#EXTINF:-1,DE | Telekom Sport (3.Liga) 3
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2481
+#EXTINF:-1,DE | Telekom Sport (3.Liga) 4
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2482
+#EXTINF:-1,DE | Telekom Sport (3.Liga) 5
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2483
+#EXTINF:-1,DE | Telekom Sport (3.Liga) 6
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2484
+#EXTINF:-1,DE | Telekom Sport (3.Liga) 7
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2485
+#EXTINF:-1,DE | Telekom Sport (3.Liga) 8
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2486
+#EXTINF:-1,DE | Telekom Sport BBL 1
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2487
+#EXTINF:-1,DE | Telekom Sport BBL 3
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2488
+#EXTINF:-1,DE | Telekom Sport BBL 4
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2489
+#EXTINF:-1,DE | Telekom Sport DEL 1
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2490
+#EXTINF:-1,DE | Telekom Sport DEL 2
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2491
+#EXTINF:-1,DE | Telekom Sport DEL 3
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2492
+#EXTINF:-1,DE | Telekom Sport DEL 4
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2493
+#EXTINF:-1,DE | Telekom Sport DEL 5
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2494
+#EXTINF:-1,DE | Telekom Sport DEL 6
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2495
+#EXTINF:-1,DE: KiKA FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2496
+#EXTINF:-1,DE: Deluxe Music FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2497
+#EXTINF:-1,DE: DMAX FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2498
+#EXTINF:-1,DE: Kabel Eins Doku FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2499
+#EXTINF:-1,DE: Kabel Eins FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2500
+#EXTINF:-1,DE: MTV FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2501
+#EXTINF:-1,DE: n-tv FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2502
+#EXTINF:-1,DE: Pro7 MAXX FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2503
+#EXTINF:-1,DE: ProSieben FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2504
+#EXTINF:-1,DE: RTLII FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2505
+#EXTINF:-1,DE: SAT.1 FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2506
+#EXTINF:-1,DE: Sat.1 Gold FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2507
+#EXTINF:-1,DE: SIXX FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2508
+#EXTINF:-1,DE: SPORT1 FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2509
+#EXTINF:-1,DE: SUPER RTL FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2510
+#EXTINF:-1,DE: TELE 5 FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2511
+#EXTINF:-1,DE: TLC FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2512
+#EXTINF:-1,DE: VOX FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2513
+#EXTINF:-1,DE: WELT FHD (Direct Source)
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2514
+#EXTINF:-1,DE: 13th Street FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2515
+#EXTINF:-1,DE: DAZN 1 Bar FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2516
+#EXTINF:-1,DE: DAZN 2 Bar FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2517
+#EXTINF:-1,DE: Discovery Channel FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2518
+#EXTINF:-1,DE: Disney Channel FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2519
+#EXTINF:-1,DE: E! Entertainment FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2520
+#EXTINF:-1,DE: SYFY FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2521
+#EXTINF:-1,DE: TNT Comedy FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2522
+#EXTINF:-1,DE: TNT Film FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2523
+#EXTINF:-1,DE: Universal TV FHD
+http://mytugaiptv.xyz:8080/jalanr/Alemanha2021/2524
