@@ -1,391 +1,297 @@
 #EXTM3U
-#EXTINF:-1,DE:ZDF HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/182
-#EXTINF:-1,DE:ZDF
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/183
-#EXTINF:-1,DE:ZDF NEO HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/184
-#EXTINF:-1,DE:ARD HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/185
-#EXTINF:-1,DE:ARD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/186
-#EXTINF:-1,DE:PRO 7 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/187
-#EXTINF:-1,DE:PRO 7
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/188
-#EXTINF:-1,DE:PRO 7 MAXX
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/189
-#EXTINF:-1,DE:PRO 7 FUN
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/190
-#EXTINF:-1,DE:VOX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/191
-#EXTINF:-1,DE:VOX
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/192
-#EXTINF:-1,DE:SAT 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/193
-#EXTINF:-1,DE:SAT 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/194
-#EXTINF:-1,DE:SAT 1 GOLD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/195
-#EXTINF:-1,DE:RTL HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/196
-#EXTINF:-1,DE:RTL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/197
-#EXTINF:-1,DE:RTL NITRO
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/199
-#EXTINF:-1,DE:RTL CRIME
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/200
-#EXTINF:-1,DE:RTL PASSION
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/201
-#EXTINF:-1,DE:RTL LIVING
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/202
-#EXTINF:-1,DE:RTL 2 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/203
-#EXTINF:-1,DE:RTL 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/204
-#EXTINF:-1,DE:KABEL EINS HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/205
-#EXTINF:-1,DE:ARTE HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/206
-#EXTINF:-1,DE:3 SAT HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/207
-#EXTINF:-1,DE:WDR HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/208
-#EXTINF:-1,DE:SILVERLINE
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/209
-#EXTINF:-1,DE:DELUXE MUSIC
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/210
-#EXTINF:-1,DE:RTL PLUS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/211
-#EXTINF:-1,DE:TV AKTUEL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/212
-#EXTINF:-1,DE:FIX&FOXI
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/218
-#EXTINF:-1,DE:KIKA
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/220
-#EXTINF:-1,DE:TOGGO PLUS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/221
-#EXTINF:-1,DE:SUPER RTL HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/222
-#EXTINF:-1,DE:NICKELEDEON HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/223
-#EXTINF:-1,DE:CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/224
-#EXTINF:-1,DE:BOOMERANG HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/225
-#EXTINF:-1,DE:DISNEY JUNIOR
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/226
-#EXTINF:-1,DE:DISNEY XD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/227
-#EXTINF:-1,DE:JUNIOR HD (6-20 Uhr)
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/228
-#EXTINF:-1,DE:DISNEY CHANNEL HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/229
-#EXTINF:-1,DE:DISNEY CINEMAGIC
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/230
-#EXTINF:-1,DE:SONY AXN HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/239
-#EXTINF:-1,DE:DMAX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/240
-#EXTINF:-1,DE:SIXX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/241
-#EXTINF:-1,DE:Syfy HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/242
-#EXTINF:-1,DE:13TH Street HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/243
-#EXTINF:-1,DE:FOX HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/246
-#EXTINF:-1,DE:ROMANCE TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/248
-#EXTINF:-1,DE:KINOWELT TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/249
-#EXTINF:-1,DE:VIVA/COMEDY CENTRAL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/250
-#EXTINF:-1,DE:SONY Entertainment TV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/251
-#EXTINF:-1,DE:KABEL EINS DOKU
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/214
-#EXTINF:-1,DE:EURONEWS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/215
-#EXTINF:-1,DE:TAGESSCHAU 24
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/216
-#EXTINF:-1,DE:NTV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/217
-#EXTINF:-1,DE:HISTORY CHANNEL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/231
-#EXTINF:-1,DE:ANIMAL PLANET HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/232
-#EXTINF:-1,DE:NAT GEO HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/233
-#EXTINF:-1,DE:NAT GEO WILD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/234
-#EXTINF:-1,DE:DISCOVERY CHANNEL
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/235
-#EXTINF:-1,DE:E! ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/236
-#EXTINF:-1,DE:SPIEGEL GESICHTE
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/237
-#EXTINF:-1,DE:N24 NEWS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/16590
-#EXTINF:-1,DE:TLC HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/252
-#EXTINF:-1,DE:SKY 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/253
-#EXTINF:-1,DE:SKY KRIMI HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/254
-#EXTINF:-1,DE:TNT COMEDY
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/255
-#EXTINF:-1,DE:TNT FILM
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/256
-#EXTINF:-1,DE:TNT SERIE HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/257
-#EXTINF:-1,DE:SKY CINEMA HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/259
-#EXTINF:-1,DE:SKY CINEMA  +1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/260
-#EXTINF:-1,DE:SKY CINEMA +24 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/261
-#EXTINF:-1,DE:SKY CINEMA ACTION HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/262
-#EXTINF:-1,DE:SKY ATLANTIC HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/263
-#EXTINF:-1,DE:SKY CINEMA COMEDY HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/264
-#EXTINF:-1,DE:SKY CINEMA EMOTION HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/265
-#EXTINF:-1,DE:SKY CINEMA HITS
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/266
-#EXTINF:-1,DE:SKY CINEMA NOSTALGIE
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/267
-#EXTINF:-1,DE:SKY CINEMA FAMILY HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/279
-#EXTINF:-1,DE:SKY SELECT 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/280
-#EXTINF:-1,DE:SKY SELECT 2 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/281
-#EXTINF:-1,DE:SKY SELECT 3 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/282
-#EXTINF:-1,DE:SKY SELECT 4 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/283
-#EXTINF:-1,DE:SKY SELECT 5 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/284
-#EXTINF:-1,DE:SKY SELECT 6 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/285
-#EXTINF:-1,DE:SKY SELECT 7 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/286
-#EXTINF:-1,DE:SKY SELECT 8 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/287
-#EXTINF:-1,DE:SKY SELECT 9 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/288
-#EXTINF:-1,DE:SKY SELECT 10 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/289
-#EXTINF:-1,*****GERMANY SPORT*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/290
-#EXTINF:-1,DE:SKY SPORT NEWS HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/313
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/291
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/292
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/293
-#EXTINF:-1,DE:MOTORVISION TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/294
-#EXTINF:-1,DE:SPORT DIGITAL HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/297
-#EXTINF:-1,DE:SPORT 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/295
-#EXTINF:-1,DE:SPORT 1+ HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/296
-#EXTINF:-1,DE:SKY BUNDESLIGA 1 SD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/300
-#EXTINF:-1,DE:SKY BUNDESLIGA 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/301
-#EXTINF:-1,DE:SKY BUNDESLIGA 2 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/303
-#EXTINF:-1,DE:SKY BUNDESLIGA 3 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/305
-#EXTINF:-1,DE:SKY BUNDESLIGA 4 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/307
-#EXTINF:-1,DE:SKY BUNDESLIGA 5 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/309
-#EXTINF:-1,DE:SKY BUNDESLIGA 6 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/311
-#EXTINF:-1,DE:SKY SPORT 1 SD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/314
-#EXTINF:-1,DE:SKY SPORT 1 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/315
-#EXTINF:-1,DE:SKY SPORT 2 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/318
-#EXTINF:-1,DE:SKY SPORT 3 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/320
-#EXTINF:-1,DE:SKY SPORT 4 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/322
-#EXTINF:-1,DE:SKY SPORT 5 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/324
-#EXTINF:-1,DE:SKY SPORT 6 HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/326
-#EXTINF:-1,*****AUSTRIA CHANNEL*****
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/4954
-#EXTINF:-1,AT:SKY SPORT AUSTRIA
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/345
-#EXTINF:-1,AT:ORF SPORT+ HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/344
-#EXTINF:-1,AT:ORF 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/328
-#EXTINF:-1,AT:ORF 2
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/329
-#EXTINF:-1,AT:ORF 3
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/330
-#EXTINF:-1,AT:PULS 4
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/333
-#EXTINF:-1,AT:ATV HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/331
-#EXTINF:-1,AT:ATV 2HD
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/332
-#EXTINF:-1,AT:Servus Tv Austria
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/334
-#EXTINF:-1,AL:K Sport 1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/341
-#EXTINF:-1,AT:OE24 TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/340
-#EXTINF:-1,AT:KRONE HIT
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/343
-#EXTINF:-1,AT:M4
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/339
-#EXTINF:-1,AT:FS1
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/338
-#EXTINF:-1,AT:K TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/337
-#EXTINF:-1,AT:DORF TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/336
-#EXTINF:-1,AT:R9 TV
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/342
-#EXTINF:-1,AT:W 24
-#EXTVLCOPT:http-user-agent=okhttp/3.10.0
-http://server.hdiptv.world:8080/visiontv38922/sx7vXQwYrE/335
+#EXTINF:-1,DE: ZDF NEO HD
+http://yassooo.com:8080/benAlaa/829293992/83961
+#EXTINF:-1,DE: ZDF Info HD
+http://yassooo.com:8080/benAlaa/829293992/83960
+#EXTINF:-1,DE: ZDF HD
+http://yassooo.com:8080/benAlaa/829293992/83959
+#EXTINF:-1,DE: WDR HD
+http://yassooo.com:8080/benAlaa/829293992/83958
+#EXTINF:-1,DE: VOX HD
+http://yassooo.com:8080/benAlaa/829293992/83957
+#EXTINF:-1,DE: Universal HD
+http://yassooo.com:8080/benAlaa/829293992/83956
+#EXTINF:-1,DE: TOGGO Plus
+http://yassooo.com:8080/benAlaa/829293992/83955
+#EXTINF:-1,DE: TNT Serie HD
+http://yassooo.com:8080/benAlaa/829293992/83954
+#EXTINF:-1,DE: TNT Film HD
+http://yassooo.com:8080/benAlaa/829293992/83953
+#EXTINF:-1,DE: TNT Comedy HD
+http://yassooo.com:8080/benAlaa/829293992/83952
+#EXTINF:-1,DE: TLC HD
+http://yassooo.com:8080/benAlaa/829293992/83951
+#EXTINF:-1,DE: Tele 5 HD
+http://yassooo.com:8080/benAlaa/829293992/83950
+#EXTINF:-1,DE: Tageschau HD
+http://yassooo.com:8080/benAlaa/829293992/83949
+#EXTINF:-1,DE: Syfy HD
+http://yassooo.com:8080/benAlaa/829293992/83948
+#EXTINF:-1,DE: SWR HD
+http://yassooo.com:8080/benAlaa/829293992/83947
+#EXTINF:-1,DE: Super RTL HD
+http://yassooo.com:8080/benAlaa/829293992/83946
+#EXTINF:-1,DE: SR HD
+http://yassooo.com:8080/benAlaa/829293992/83945
+#EXTINF:-1,DE: Sportdigital HD
+http://yassooo.com:8080/benAlaa/829293992/83944
+#EXTINF:-1,DE: Sport 1+ HD
+http://yassooo.com:8080/benAlaa/829293992/83942
+#EXTINF:-1,DE: Spiegel TV Wissen HD
+http://yassooo.com:8080/benAlaa/829293992/83941
+#EXTINF:-1,DE: Spiegel TV Geschichte HD
+http://yassooo.com:8080/benAlaa/829293992/83940
+#EXTINF:-1,DE: Sony TV HD
+http://yassooo.com:8080/benAlaa/829293992/83939
+#EXTINF:-1,DE: Sky Sport News HD
+http://yassooo.com:8080/benAlaa/829293992/83938
+#EXTINF:-1,DE: Sky Sport Austria HD
+http://yassooo.com:8080/benAlaa/829293992/83937
+#EXTINF:-1,DE: Sky Sport 7 HD
+http://yassooo.com:8080/benAlaa/829293992/83936
+#EXTINF:-1,DE: Sky Sport 6 HD
+http://yassooo.com:8080/benAlaa/829293992/83935
+#EXTINF:-1,DE: Sky Sport 5 HD
+http://yassooo.com:8080/benAlaa/829293992/83934
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://yassooo.com:8080/benAlaa/829293992/83933
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://yassooo.com:8080/benAlaa/829293992/83932
+#EXTINF:-1,DE: Sky Sport 2 HD [24/7]
+http://yassooo.com:8080/benAlaa/829293992/83931
+#EXTINF:-1,DE: Sky Sport 1 HD [24/7]
+http://yassooo.com:8080/benAlaa/829293992/83930
+#EXTINF:-1,DE: Sky Krimi HD
+http://yassooo.com:8080/benAlaa/829293992/83929
+#EXTINF:-1,DE: Sky Cinema Best Of HD
+http://yassooo.com:8080/benAlaa/829293992/83928
+#EXTINF:-1,DE: Sky Fun
+http://yassooo.com:8080/benAlaa/829293992/83927
+#EXTINF:-1,DE: Sky Cinema Classic
+http://yassooo.com:8080/benAlaa/829293992/83926
+#EXTINF:-1,DE: Sky Cinema Premieren HD
+http://yassooo.com:8080/benAlaa/829293992/83925
+#EXTINF:-1,DE: Sky Cinema Family HD
+http://yassooo.com:8080/benAlaa/829293992/83924
+#EXTINF:-1,DE: Sky Cinema  Premieren +24 HD
+http://yassooo.com:8080/benAlaa/829293992/83923
+#EXTINF:-1,DE: Sky Cinema  Thriller HD
+http://yassooo.com:8080/benAlaa/829293992/83922
+#EXTINF:-1,DE: Sky Bundesliga 8
+http://yassooo.com:8080/benAlaa/829293992/83921
+#EXTINF:-1,DE: Sky Bundesliga 7 HD
+http://yassooo.com:8080/benAlaa/829293992/83920
+#EXTINF:-1,DE: Sky Bundesliga 6 HD
+http://yassooo.com:8080/benAlaa/829293992/83919
+#EXTINF:-1,DE: Sky Bundesliga 5 HD
+http://yassooo.com:8080/benAlaa/829293992/83918
+#EXTINF:-1,DE: Sky Bundesliga 4 HD
+http://yassooo.com:8080/benAlaa/829293992/83917
+#EXTINF:-1,DE: Sky Bundesliga 3 HD
+http://yassooo.com:8080/benAlaa/829293992/83916
+#EXTINF:-1,DE: Sky Bundesliga 2 HD
+http://yassooo.com:8080/benAlaa/829293992/83915
+#EXTINF:-1,DE: Sky Bundesliga 1 HD [24/7]
+http://yassooo.com:8080/benAlaa/829293992/83914
+#EXTINF:-1,DE: Sky Atlantic HD
+http://yassooo.com:8080/benAlaa/829293992/83913
+#EXTINF:-1,DE: Sky Action HD
+http://yassooo.com:8080/benAlaa/829293992/83912
+#EXTINF:-1,DE: Sky 1 HD
+http://yassooo.com:8080/benAlaa/829293992/83911
+#EXTINF:-1,DE: SIXX HD
+http://yassooo.com:8080/benAlaa/829293992/83910
+#EXTINF:-1,DE: Silverline
+http://yassooo.com:8080/benAlaa/829293992/83909
+#EXTINF:-1,DE: ServusTV HD AT
+http://yassooo.com:8080/benAlaa/829293992/83908
+#EXTINF:-1,DE: ServusTV HD
+http://yassooo.com:8080/benAlaa/829293992/83907
+#EXTINF:-1,DE: SAT.1 HD
+http://yassooo.com:8080/benAlaa/829293992/83906
+#EXTINF:-1,DE: SAT.1 Gold HD
+http://yassooo.com:8080/benAlaa/829293992/83905
+#EXTINF:-1,DE: SAT.1 Emotions HD
+http://yassooo.com:8080/benAlaa/829293992/83904
+#EXTINF:-1,DE: RTL 2 HD
+http://yassooo.com:8080/benAlaa/829293992/83903
+#EXTINF:-1,DE: RTL PLUS HD
+http://yassooo.com:8080/benAlaa/829293992/83902
+#EXTINF:-1,DE: RTL Passion HD
+http://yassooo.com:8080/benAlaa/829293992/83901
+#EXTINF:-1,DE: RTL Nitro HD
+http://yassooo.com:8080/benAlaa/829293992/83900
+#EXTINF:-1,DE: RTL Living HD
+http://yassooo.com:8080/benAlaa/829293992/83899
+#EXTINF:-1,DE: RTL HD
+http://yassooo.com:8080/benAlaa/829293992/83898
+#EXTINF:-1,DE: RTL Crime HD
+http://yassooo.com:8080/benAlaa/829293992/83897
+#EXTINF:-1,DE: Romance TV HD
+http://yassooo.com:8080/benAlaa/829293992/83896
+#EXTINF:-1,DE: RBB HD
+http://yassooo.com:8080/benAlaa/829293992/83895
+#EXTINF:-1,DE: PULS 4
+http://yassooo.com:8080/benAlaa/829293992/83894
+#EXTINF:-1,DE: ProSieben MAXX HD
+http://yassooo.com:8080/benAlaa/829293992/83893
+#EXTINF:-1,DE: ProSieben HD
+http://yassooo.com:8080/benAlaa/829293992/83892
+#EXTINF:-1,DE: Prosieben Fun HD
+http://yassooo.com:8080/benAlaa/829293992/83891
+#EXTINF:-1,DE: DOXX HD
+http://yassooo.com:8080/benAlaa/829293992/83890
+#EXTINF:-1,DE: PHOENIX HD
+http://yassooo.com:8080/benAlaa/829293992/83889
+#EXTINF:-1,DE: ORF Sport Plus HD
+http://yassooo.com:8080/benAlaa/829293992/83888
+#EXTINF:-1,DE: ORF 3 HD
+http://yassooo.com:8080/benAlaa/829293992/83887
+#EXTINF:-1,DE: ORF 2 HD
+http://yassooo.com:8080/benAlaa/829293992/83886
+#EXTINF:-1,DE: ORF 1 HD
+http://yassooo.com:8080/benAlaa/829293992/83885
+#EXTINF:-1,DE: ONE HD
+http://yassooo.com:8080/benAlaa/829293992/83884
+#EXTINF:-1,DE: ARD ALPHA HD
+http://yassooo.com:8080/benAlaa/829293992/83883
+#EXTINF:-1,DE: NTV HD
+http://yassooo.com:8080/benAlaa/829293992/83882
+#EXTINF:-1,DE: Nicktoons
+http://yassooo.com:8080/benAlaa/829293992/83881
+#EXTINF:-1,DE: Nick/Mtv+ HD
+http://yassooo.com:8080/benAlaa/829293992/83880
+#EXTINF:-1,DE: Nick Jr. HD
+http://yassooo.com:8080/benAlaa/829293992/83879
+#EXTINF:-1,DE: NDR HD
+http://yassooo.com:8080/benAlaa/829293992/83878
+#EXTINF:-1,DE: National Geo HD
+http://yassooo.com:8080/benAlaa/829293992/83877
+#EXTINF:-1,DE: Nat Geo Wild HD
+http://yassooo.com:8080/benAlaa/829293992/83876
+#EXTINF:-1,DE: Welt HD
+http://yassooo.com:8080/benAlaa/829293992/83875
+#EXTINF:-1,DE: N24 Doku HD
+http://yassooo.com:8080/benAlaa/829293992/83874
+#EXTINF:-1,DE: MTV HD
+http://yassooo.com:8080/benAlaa/829293992/83873
+#EXTINF:-1,DE: Motorvision HD
+http://yassooo.com:8080/benAlaa/829293992/83872
+#EXTINF:-1,DE: Puls 24 HD
+http://yassooo.com:8080/benAlaa/829293992/83871
+#EXTINF:-1,DE: MDR HD
+http://yassooo.com:8080/benAlaa/829293992/83870
+#EXTINF:-1,DE: Kinowelt HD
+http://yassooo.com:8080/benAlaa/829293992/83869
+#EXTINF:-1,DE: Kika HD
+http://yassooo.com:8080/benAlaa/829293992/83868
+#EXTINF:-1,DE: Kabel 1 HD
+http://yassooo.com:8080/benAlaa/829293992/83867
+#EXTINF:-1,DE: Kabel 1 Doku HD
+http://yassooo.com:8080/benAlaa/829293992/83866
+#EXTINF:-1,DE: Kabel 1 Classic HD
+http://yassooo.com:8080/benAlaa/829293992/83865
+#EXTINF:-1,DE: Junior [6:00-20:00]
+http://yassooo.com:8080/benAlaa/829293992/83864
+#EXTINF:-1,DE: Jukebox
+http://yassooo.com:8080/benAlaa/829293992/83863
+#EXTINF:-1,DE: HR HD
+http://yassooo.com:8080/benAlaa/829293992/83862
+#EXTINF:-1,DE: History Channel HD
+http://yassooo.com:8080/benAlaa/829293992/83861
+#EXTINF:-1,DE: HGTV HD
+http://yassooo.com:8080/benAlaa/829293992/83860
+#EXTINF:-1,DE: Heimatkanal
+http://yassooo.com:8080/benAlaa/829293992/83859
+#EXTINF:-1,DE: Geo TV HD
+http://yassooo.com:8080/benAlaa/829293992/83858
+#EXTINF:-1,DE: Fox HD
+http://yassooo.com:8080/benAlaa/829293992/83857
+#EXTINF:-1,DE: Fix&Foxi
+http://yassooo.com:8080/benAlaa/829293992/83856
+#EXTINF:-1,DE: eSports1 HD
+http://yassooo.com:8080/benAlaa/829293992/83851
+#EXTINF:-1,DE: E! Entertainment HD
+http://yassooo.com:8080/benAlaa/829293992/83850
+#EXTINF:-1,DE: DMAX HD
+http://yassooo.com:8080/benAlaa/829293992/83849
+#EXTINF:-1,DE: Disney Jr. HD
+http://yassooo.com:8080/benAlaa/829293992/83848
+#EXTINF:-1,DE: Sky Cinema Spezial HD
+http://yassooo.com:8080/benAlaa/829293992/83847
+#EXTINF:-1,DE: Disney Channel HD
+http://yassooo.com:8080/benAlaa/829293992/83846
+#EXTINF:-1,DE: Discovery Channel HD
+http://yassooo.com:8080/benAlaa/829293992/83845
+#EXTINF:-1,DE: Deluxe HD
+http://yassooo.com:8080/benAlaa/829293992/83844
+#EXTINF:-1,DE: DAZN 2 HD
+http://yassooo.com:8080/benAlaa/829293992/83843
+#EXTINF:-1,DE: DAZN 1 HD
+http://yassooo.com:8080/benAlaa/829293992/83842
+#EXTINF:-1,DE: Das Erste HD
+http://yassooo.com:8080/benAlaa/829293992/83841
+#EXTINF:-1,DE: Crime + Investigation HD
+http://yassooo.com:8080/benAlaa/829293992/83840
+#EXTINF:-1,DE: Comedy Central HD
+http://yassooo.com:8080/benAlaa/829293992/83839
+#EXTINF:-1,DE: Cartoon Network HD
+http://yassooo.com:8080/benAlaa/829293992/83838
+#EXTINF:-1,DE: BR Fernsehen HD
+http://yassooo.com:8080/benAlaa/829293992/83837
+#EXTINF:-1,DE: Boomerang HD
+http://yassooo.com:8080/benAlaa/829293992/83836
+#EXTINF:-1,DE: Bon Gusto HD
+http://yassooo.com:8080/benAlaa/829293992/83835
+#EXTINF:-1,DE: AXN HD
+http://yassooo.com:8080/benAlaa/829293992/83834
+#EXTINF:-1,DE: Auto Motor Sport Channel HD
+http://yassooo.com:8080/benAlaa/829293992/83833
+#EXTINF:-1,DE: ATV HD
+http://yassooo.com:8080/benAlaa/829293992/83832
+#EXTINF:-1,DE: ATV 2
+http://yassooo.com:8080/benAlaa/829293992/83831
+#EXTINF:-1,DE: Arte HD
+http://yassooo.com:8080/benAlaa/829293992/83830
+#EXTINF:-1,DE: Anixe HD
+http://yassooo.com:8080/benAlaa/829293992/83829
+#EXTINF:-1,DE: Animal Planet HD
+http://yassooo.com:8080/benAlaa/829293992/83828
+#EXTINF:-1,DE: 3sat HD
+http://yassooo.com:8080/benAlaa/829293992/83827
+#EXTINF:-1,DE: 13th Street HD
+http://yassooo.com:8080/benAlaa/829293992/83826
+#EXTINF:-1,DE: Welt Der Wunder
+http://yassooo.com:8080/benAlaa/829293992/83825
+#EXTINF:-1,DE: Mtv Brand New
+http://yassooo.com:8080/benAlaa/829293992/83824
+#EXTINF:-1,DE: VoxUp
+http://yassooo.com:8080/benAlaa/829293992/83823
+#EXTINF:-1,DE: Extreme Sports
+http://yassooo.com:8080/benAlaa/829293992/83822
+#EXTINF:-1,DE: Baby TV
+http://yassooo.com:8080/benAlaa/829293992/83821
+#EXTINF:-1,DE: Sky Serien & Shows HD
+http://yassooo.com:8080/benAlaa/829293992/83820
+#EXTINF:-1,DE: MTV 80S
+http://yassooo.com:8080/benAlaa/829293992/83819
+#EXTINF:-1,DE: Radio Bremen HD
+http://yassooo.com:8080/benAlaa/829293992/83818
+#EXTINF:-1,DE: WaidWerk HD
+http://yassooo.com:8080/benAlaa/829293992/83817
+#EXTINF:-1,DE: EDGEsport
+http://yassooo.com:8080/benAlaa/829293992/83816
+#EXTINF:-1,DE: Nick AT
+http://yassooo.com:8080/benAlaa/829293992/83815
+#EXTINF:-1,DE: Zwei Music Television
+http://yassooo.com:8080/benAlaa/829293992/83814
+#EXTINF:-1,DE: One Music Television
+http://yassooo.com:8080/benAlaa/829293992/83813
+#EXTINF:-1,DE: Deutsche Musik Fernsehen HD
+http://yassooo.com:8080/benAlaa/829293992/83812
+#EXTINF:-1,DE: FOLX Music Television
+http://yassooo.com:8080/benAlaa/829293992/83811
+#EXTINF:-1,DE: Puls 4 HD
+http://yassooo.com:8080/benAlaa/829293992/83810
+#EXTINF:-1,DE: Sky Sport F1 HD
+http://yassooo.com:8080/benAlaa/829293992/95620
