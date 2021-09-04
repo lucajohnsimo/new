@@ -1,341 +1,297 @@
 #EXTM3U
-#EXTINF:-1,One HD DE
-http://62.182.83.160:5890/99999999/00000000/1175
-#EXTINF:-1,Das Erste HD DE
-http://62.182.83.160:5890/99999999/00000000/1176
-#EXTINF:-1,ZDF HD DE
-http://62.182.83.160:5890/99999999/00000000/1177
-#EXTINF:-1,ZDF info HD DE
-http://62.182.83.160:5890/99999999/00000000/1180
-#EXTINF:-1,ZDF DE
-http://62.182.83.160:5890/99999999/00000000/1178
-#EXTINF:-1,Zdf_neo HD DE
-http://62.182.83.160:5890/99999999/00000000/1179
-#EXTINF:-1,SAT.1 Gold HD DE
-http://62.182.83.160:5890/99999999/00000000/1186
-#EXTINF:-1,Pro7 MAXX HD DE
-http://62.182.83.160:5890/99999999/00000000/1196
-#EXTINF:-1,VOX HD DE
-http://62.182.83.160:5890/99999999/00000000/1181
-#EXTINF:-1,VOX DE
-http://62.182.83.160:5890/99999999/00000000/1182
-#EXTINF:-1,SAT.1 HD DE
-http://62.182.83.160:5890/99999999/00000000/1183
-#EXTINF:-1,SAT.1 DE
-http://62.182.83.160:5890/99999999/00000000/1184
-#EXTINF:-1,SAT.1 Gold DE
-http://62.182.83.160:5890/99999999/00000000/1185
-#EXTINF:-1,RTL HD DE
-http://62.182.83.160:5890/99999999/00000000/1187
-#EXTINF:-1,RTL DE
-http://62.182.83.160:5890/99999999/00000000/1188
-#EXTINF:-1,RTL Zwei HD DE
-http://62.182.83.160:5890/99999999/00000000/1189
-#EXTINF:-1,RTL Zwei DE
-http://62.182.83.160:5890/99999999/00000000/1190
-#EXTINF:-1,RTL plus HD DE
-http://62.182.83.160:5890/99999999/00000000/1191
-#EXTINF:-1,ProSieben HD DE
-http://62.182.83.160:5890/99999999/00000000/1194
-#EXTINF:-1,ProSieben DE
-http://62.182.83.160:5890/99999999/00000000/1195
-#EXTINF:-1,Pro7 MAXX DE
-http://62.182.83.160:5890/99999999/00000000/1197
-#EXTINF:-1,kabel eins HD DE
-http://62.182.83.160:5890/99999999/00000000/1198
-#EXTINF:-1,Zee One DE
-http://62.182.83.160:5890/99999999/00000000/1199
-#EXTINF:-1,Zee One HD DE
-http://62.182.83.160:5890/99999999/00000000/1200
-#EXTINF:-1,-- Unterhaltung | LIVE  --
-http://62.182.83.160:5890/99999999/00000000/1201
-#EXTINF:-1,Channel 21 DE
-http://62.182.83.160:5890/99999999/00000000/1204
-#EXTINF:-1,N-TV DE
-http://62.182.83.160:5890/99999999/00000000/1205
-#EXTINF:-1,SUPER RTL HD DE
-http://62.182.83.160:5890/99999999/00000000/1206
-#EXTINF:-1,SUPER RTL DE
-http://62.182.83.160:5890/99999999/00000000/1207
-#EXTINF:-1,Tagesschau 24 DE
-http://62.182.83.160:5890/99999999/00000000/1208
-#EXTINF:-1,Family TV DE
-http://62.182.83.160:5890/99999999/00000000/1215
-#EXTINF:-1,-- CINEMA | LIVE --
-http://62.182.83.160:5890/99999999/00000000/1223
-#EXTINF:-1,Sky Atlantic FHD DE
-http://62.182.83.160:5890/99999999/00000000/1225
-#EXTINF:-1,Sky Atlantic DE
-http://62.182.83.160:5890/99999999/00000000/1226
-#EXTINF:-1,Sky Cinema HD DE
-http://62.182.83.160:5890/99999999/00000000/1227
-#EXTINF:-1,Sky Cinema DE
-http://62.182.83.160:5890/99999999/00000000/1228
-#EXTINF:-1,Sky Cinema +1 HD DE
-http://62.182.83.160:5890/99999999/00000000/1229
-#EXTINF:-1,Sky Cinema +1 DE
-http://62.182.83.160:5890/99999999/00000000/1230
-#EXTINF:-1,Sky Cinema + 24 HD DE
-http://62.182.83.160:5890/99999999/00000000/1231
-#EXTINF:-1,Sky Cinema  +24 DE
-http://62.182.83.160:5890/99999999/00000000/1232
-#EXTINF:-1,Sky Cinema Action HD DE
-http://62.182.83.160:5890/99999999/00000000/1233
-#EXTINF:-1,Sky Cinema Action DE
-http://62.182.83.160:5890/99999999/00000000/1234
-#EXTINF:-1,Sky Cinema Hits DE
-http://62.182.83.160:5890/99999999/00000000/1236
-#EXTINF:-1,Sky Cinema Family FHD DE
-http://62.182.83.160:5890/99999999/00000000/1237
-#EXTINF:-1,Sky Cinema Family DE
-http://62.182.83.160:5890/99999999/00000000/1238
-#EXTINF:-1,Sky Cinema Comedy DE
-http://62.182.83.160:5890/99999999/00000000/1239
-#EXTINF:-1,Sky Cinema Nostalgie DE
-http://62.182.83.160:5890/99999999/00000000/1240
-#EXTINF:-1,Sky Cinema Emotion DE
-http://62.182.83.160:5890/99999999/00000000/1241
-#EXTINF:-1,Sky Krimi FHD DE
-http://62.182.83.160:5890/99999999/00000000/1224
-#EXTINF:-1,Sky Cinema Alien HD DE
-http://62.182.83.160:5890/99999999/00000000/1235
-#EXTINF:-1,FOX HD DE
-http://62.182.83.160:5890/99999999/00000000/1245
-#EXTINF:-1,FOX DE
-http://62.182.83.160:5890/99999999/00000000/1246
-#EXTINF:-1,TNT Serie HD DE
-http://62.182.83.160:5890/99999999/00000000/1248
-#EXTINF:-1,TNT Film DE
-http://62.182.83.160:5890/99999999/00000000/1255
-#EXTINF:-1,Fox Serie DE
-http://62.182.83.160:5890/99999999/00000000/1247
-#EXTINF:-1,TNT Serie DE
-http://62.182.83.160:5890/99999999/00000000/1249
-#EXTINF:-1,TNT Comedy HD DE
-http://62.182.83.160:5890/99999999/00000000/1256
-#EXTINF:-1,NITRO HD DE
-http://62.182.83.160:5890/99999999/00000000/1252
-#EXTINF:-1,Universal HD DE
-http://62.182.83.160:5890/99999999/00000000/1254
-#EXTINF:-1,Romance TV HD DE
-http://62.182.83.160:5890/99999999/00000000/1242
-#EXTINF:-1,13th Street HD DE
-http://62.182.83.160:5890/99999999/00000000/1243
-#EXTINF:-1,13th Street DE
-http://62.182.83.160:5890/99999999/00000000/1244
-#EXTINF:-1,SIXX HD DE
-http://62.182.83.160:5890/99999999/00000000/1250
-#EXTINF:-1,SIXX DE
-http://62.182.83.160:5890/99999999/00000000/1251
-#EXTINF:-1,NITRO DE
-http://62.182.83.160:5890/99999999/00000000/1253
-#EXTINF:-1,Comedy Central DE
-http://62.182.83.160:5890/99999999/00000000/1257
-#EXTINF:-1,SYFY HD DE
-http://62.182.83.160:5890/99999999/00000000/1258
-#EXTINF:-1,SYFY DE
-http://62.182.83.160:5890/99999999/00000000/1259
-#EXTINF:-1,TLC HD DE
-http://62.182.83.160:5890/99999999/00000000/1260
-#EXTINF:-1,TLC DE
-http://62.182.83.160:5890/99999999/00000000/1261
-#EXTINF:-1,Kinowelt TV HD DE
-http://62.182.83.160:5890/99999999/00000000/1262
-#EXTINF:-1,E! Entertainm. HD DE
-http://62.182.83.160:5890/99999999/00000000/1263
-#EXTINF:-1,-- SPORTS | LIVE --
-http://62.182.83.160:5890/99999999/00000000/1264
-#EXTINF:-1,Sport1 HD DE
-http://62.182.83.160:5890/99999999/00000000/1265
-#EXTINF:-1,DAZN 1 Bar FHD DE
-http://62.182.83.160:5890/99999999/00000000/1266
-#EXTINF:-1,DAZN 2 Bar FHD DE
-http://62.182.83.160:5890/99999999/00000000/1267
-#EXTINF:-1,Bayern Munich TV DE
-http://62.182.83.160:5890/99999999/00000000/92113
-#EXTINF:-1,Sport Digital HD DE
-http://62.182.83.160:5890/99999999/00000000/1271
-#EXTINF:-1,Motorvision TV DE
-http://62.182.83.160:5890/99999999/00000000/1272
-#EXTINF:-1,Sky Sport News FHD DE
-http://62.182.83.160:5890/99999999/00000000/1273
-#EXTINF:-1,Sky Sport News DE
-http://62.182.83.160:5890/99999999/00000000/1274
-#EXTINF:-1,Sky Sport Austria DE
-http://62.182.83.160:5890/99999999/00000000/1275
-#EXTINF:-1,Sky Sport Bundesliga 1 HD DE
-http://62.182.83.160:5890/99999999/00000000/1276
-#EXTINF:-1,Sky Sport Bundesliga 1 DE
-http://62.182.83.160:5890/99999999/00000000/1277
-#EXTINF:-1,Sky Sport Bundesliga 2 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1278
-#EXTINF:-1,Sky Sport Bundesliga 2 HD | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1279
-#EXTINF:-1,Sky Sport Bundesliga 3 HD | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1280
-#EXTINF:-1,Sky Sport Bundesliga 3 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1281
-#EXTINF:-1,Sky Sport Bundesliga 4 HD | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1282
-#EXTINF:-1,Sky Sport Bundesliga 4 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1283
-#EXTINF:-1,Sky Sport Bundesliga 5 HD | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1284
-#EXTINF:-1,Sky Sport Bundesliga 5 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1285
-#EXTINF:-1,Sky Sport Bundesliga 6 HD | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1286
-#EXTINF:-1,Sky Sport Bundesliga 6 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1287
-#EXTINF:-1,Sky Sport Bundesliga 7 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1288
-#EXTINF:-1,Sky Sport Bundesliga 8 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1289
-#EXTINF:-1,Sky Sport Bundesliga 9 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1290
-#EXTINF:-1,Sky Sport Bundesliga 10 HD | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1291
-#EXTINF:-1,Sky Sport Bundesliga 10 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1292
-#EXTINF:-1,Sky Sport 1 HD DE
-http://62.182.83.160:5890/99999999/00000000/1293
-#EXTINF:-1,Sky Sport 1 DE
-http://62.182.83.160:5890/99999999/00000000/1294
-#EXTINF:-1,Sky Sport 2 HD DE
-http://62.182.83.160:5890/99999999/00000000/1295
-#EXTINF:-1,Sky Sport 2 DE
-http://62.182.83.160:5890/99999999/00000000/1296
-#EXTINF:-1,Sky Sport 3 HD | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1297
-#EXTINF:-1,Sky Sport 3 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1298
-#EXTINF:-1,Sky Sport 4 HD | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1299
-#EXTINF:-1,Sky Sport 4 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1300
-#EXTINF:-1,Sky Sport 5HD | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1301
-#EXTINF:-1,Sky Sport 5 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1302
-#EXTINF:-1,Sky Sport 6 HD | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1303
-#EXTINF:-1,Sky Sport 6 ( Match time ) DE
-http://62.182.83.160:5890/99999999/00000000/1304
-#EXTINF:-1,Sky Sport 7 HD | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1305
-#EXTINF:-1,Sky Sport 7 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1306
-#EXTINF:-1,Sky Sport 8 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1307
-#EXTINF:-1,Sky Sport 9 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1308
-#EXTINF:-1,Sky Sport 10 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1309
-#EXTINF:-1,Sky Sport 11 HD | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1310
-#EXTINF:-1,Sky Sport 11 | Match time DE
-http://62.182.83.160:5890/99999999/00000000/1311
-#EXTINF:-1,-- CULTURE | LIVE --
-http://62.182.83.160:5890/99999999/00000000/1312
-#EXTINF:-1,National Geographic HD DE
-http://62.182.83.160:5890/99999999/00000000/1313
-#EXTINF:-1,National Geographic DE
-http://62.182.83.160:5890/99999999/00000000/1314
-#EXTINF:-1,Nat Geo Wild FHD DE
-http://62.182.83.160:5890/99999999/00000000/1315
-#EXTINF:-1,Nat Geo Wild DE
-http://62.182.83.160:5890/99999999/00000000/1317
-#EXTINF:-1,DMAX HD DE
-http://62.182.83.160:5890/99999999/00000000/1316
-#EXTINF:-1,N24 DOKU DE
-http://62.182.83.160:5890/99999999/00000000/1318
-#EXTINF:-1,ANIXE HD DE
-http://62.182.83.160:5890/99999999/00000000/1327
-#EXTINF:-1,3sat HD DE
-http://62.182.83.160:5890/99999999/00000000/1328
-#EXTINF:-1,Discovery HD DE
-http://62.182.83.160:5890/99999999/00000000/1319
-#EXTINF:-1,Discovery DE
-http://62.182.83.160:5890/99999999/00000000/1320
-#EXTINF:-1,History HD DE
-http://62.182.83.160:5890/99999999/00000000/1324
-#EXTINF:-1,kabel eins Doku DE
-http://62.182.83.160:5890/99999999/00000000/1325
-#EXTINF:-1,CRIME+ INVESTI GATION HD DE
-http://62.182.83.160:5890/99999999/00000000/1326
-#EXTINF:-1,EWTN katholisches TV DE
-http://62.182.83.160:5890/99999999/00000000/1323
-#EXTINF:-1,-- Enfante | LIVE  --
-http://62.182.83.160:5890/99999999/00000000/1330
-#EXTINF:-1,KiKA HD DE
-http://62.182.83.160:5890/99999999/00000000/1331
-#EXTINF:-1,Cartoon Network DE
-http://62.182.83.160:5890/99999999/00000000/1332
-#EXTINF:-1,Boomerang DE
-http://62.182.83.160:5890/99999999/00000000/1333
-#EXTINF:-1,Junior DE
-http://62.182.83.160:5890/99999999/00000000/1334
-#EXTINF:-1,TOGGO plus DE
-http://62.182.83.160:5890/99999999/00000000/1335
-#EXTINF:-1,Disney XD HD DE
-http://62.182.83.160:5890/99999999/00000000/1336
-#EXTINF:-1,Disney Junior HD DE
-http://62.182.83.160:5890/99999999/00000000/1337
-#EXTINF:-1,Disney Junior DE
-http://62.182.83.160:5890/99999999/00000000/1338
-#EXTINF:-1,Disney Cinemagic HD DE
-http://62.182.83.160:5890/99999999/00000000/1339
-#EXTINF:-1,Disney Cinemagic DE
-http://62.182.83.160:5890/99999999/00000000/1340
-#EXTINF:-1,Disney Channel  ᴴᴰ DE
-http://62.182.83.160:5890/99999999/00000000/1341
-#EXTINF:-1,NICKELODEON AT DE
-http://62.182.83.160:5890/99999999/00000000/1342
-#EXTINF:-1,MTV HD DE
-http://62.182.83.160:5890/99999999/00000000/1344
-#EXTINF:-1,Classica DE
-http://62.182.83.160:5890/99999999/00000000/1346
-#EXTINF:-1,DELUXE MUSIC DE
-http://62.182.83.160:5890/99999999/00000000/1347
-#EXTINF:-1,-- PPV | REC  --
-http://62.182.83.160:5890/99999999/00000000/1348
-#EXTINF:-1,SKY SELECTE 1 HD DE
-http://62.182.83.160:5890/99999999/00000000/1192
-#EXTINF:-1,SKY SELECTE 2 HD DE
-http://62.182.83.160:5890/99999999/00000000/1193
-#EXTINF:-1,SKY SELECTE 3 HD DE
-http://62.182.83.160:5890/99999999/00000000/1202
-#EXTINF:-1,SKY SELECTE 4 HD DE
-http://62.182.83.160:5890/99999999/00000000/1203
-#EXTINF:-1,SKY SELECTE 5 HD DE
-http://62.182.83.160:5890/99999999/00000000/1209
-#EXTINF:-1,SKY SELECTE 6 HD DE
-http://62.182.83.160:5890/99999999/00000000/1210
-#EXTINF:-1,SKY SELECTE 7 HD DE
-http://62.182.83.160:5890/99999999/00000000/1211
-#EXTINF:-1,SKY SELECTE 8 HD DE
-http://62.182.83.160:5890/99999999/00000000/1212
-#EXTINF:-1,SKY SELECTE 9 HD DE
-http://62.182.83.160:5890/99999999/00000000/1213
-#EXTINF:-1,SKY SELECTE 10 HD DE
-http://62.182.83.160:5890/99999999/00000000/1214
-#EXTINF:-1,Sky Disney 1 ᴴᴰ DE
-http://62.182.83.160:5890/99999999/00000000/1349
-#EXTINF:-1,Sky Disney 2 ᴴᴰ DE
-http://62.182.83.160:5890/99999999/00000000/1350
-#EXTINF:-1,Sky Disney 3 ᴴᴰ DE
-http://62.182.83.160:5890/99999999/00000000/1351
-#EXTINF:-1,Sky Disney 4 ᴴᴰ DE
-http://62.182.83.160:5890/99999999/00000000/1352
-#EXTINF:-1,Sky Disney 5 ᴴᴰ DE
-http://62.182.83.160:5890/99999999/00000000/1353
-#EXTINF:-1,Sky Disney 6 ᴴᴰ DE
-http://62.182.83.160:5890/99999999/00000000/1354
-#EXTINF:-1,Sky Disney 7 ᴴᴰ DE
-http://62.182.83.160:5890/99999999/00000000/1355
-#EXTINF:-1,Sky Disney 8 ᴴᴰ DE
-http://62.182.83.160:5890/99999999/00000000/1356
-#EXTINF:-1,Sky Disney 9 ᴴᴰ DE
-http://62.182.83.160:5890/99999999/00000000/1357
-#EXTINF:-1,Sky Disney 10 ᴴᴰ DE
-http://62.182.83.160:5890/99999999/00000000/1358
+#EXTINF:-1,DE: DAS ERSTE HD (ARD)
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187688
+#EXTINF:-1,DE: DAS ERSTE (ARD)
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187689
+#EXTINF:-1,DE: ARTE HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187690
+#EXTINF:-1,DE: 3 SAT
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187691
+#EXTINF:-1,DE: ARD HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187692
+#EXTINF:-1,DE: ZDF HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187693
+#EXTINF:-1,DE: ZDF
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187694
+#EXTINF:-1,DE: ZDF NEO
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187695
+#EXTINF:-1,DE: RTL HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187696
+#EXTINF:-1,DE: RTLII HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187697
+#EXTINF:-1,DE: RTL TELVISION
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187698
+#EXTINF:-1,DE: RTL2
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187699
+#EXTINF:-1,DE: RTL PLUS
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187700
+#EXTINF:-1,DE: RTL NITRO
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187701
+#EXTINF:-1,DE: SIXX HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187702
+#EXTINF:-1,DE: PROSIEBEN HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187703
+#EXTINF:-1,DE: PRO7 MAXX HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187704
+#EXTINF:-1,DE: SAT.1 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187705
+#EXTINF:-1,DE: SAT.1 GOLD HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187706
+#EXTINF:-1,DE: VOX HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187707
+#EXTINF:-1,DE: VOX
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187708
+#EXTINF:-1,DE: PHOENIX HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187709
+#EXTINF:-1,DE: KABEL EINS HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187710
+#EXTINF:-1,DE: KABEL EINS CLASSICS HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187711
+#EXTINF:-1,DE: TELE 5 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187712
+#EXTINF:-1,DE: ANIXE HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187713
+#EXTINF:-1,DE: DMAX HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187714
+#EXTINF:-1,DE: ONE 1 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187715
+#EXTINF:-1,DE: SKY SPORT NEWS HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187717
+#EXTINF:-1,DE: SKY SPORT 1 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187718
+#EXTINF:-1,DE: SKY SPORT 1
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187719
+#EXTINF:-1,DE: SKY SPORT 2 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187720
+#EXTINF:-1,DE: SKY SPORT 2
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187721
+#EXTINF:-1,DE: DAZN 1 BAR HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187722
+#EXTINF:-1,DE: DAZN 2 BAR HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187723
+#EXTINF:-1,DE: SKY BUNDESLIGA 1 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187724
+#EXTINF:-1,DE: SKY BUNDESLIGA 2 HD (ONLY DURING LIVE MATCHES)
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187725
+#EXTINF:-1,DE: SKY BUNDESLIGA 3 HD (ONLY DURING LIVE MATCHES)
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187726
+#EXTINF:-1,DE: SKY BUNDESLIGA 4 HD (ONLY DURING LIVE MATCHES)
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187727
+#EXTINF:-1,DE: SKY BUNDESLIGA 5 HD (ONLY DURING LIVE MATCHES)
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187728
+#EXTINF:-1,DE: SKY BUNDESLIGA 6 HD (ONLY DURING LIVE MATCHES)
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187729
+#EXTINF:-1,DE: SKY BUNDESLIGA 7 HD (ONLY DURING LIVE MATCHES)
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187730
+#EXTINF:-1,DE: SKY BUNDESLIGA 8 HD (ONLY DURING LIVE MATCHES)
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187731
+#EXTINF:-1,DE: SKY BUNDESLIGA 9 HD (ONLY DURING LIVE MATCHES)
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187732
+#EXTINF:-1,DE: SKY BUNDESLIGA 10 HD (ONLY DURING LIVE MATCHES)
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187733
+#EXTINF:-1,DE: MOTORVISION TV
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187737
+#EXTINF:-1,DE: SPORT1 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187738
+#EXTINF:-1,DE: JUKEBOX
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187740
+#EXTINF:-1,DE: CLASSICA
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187741
+#EXTINF:-1,DE: MTV HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187742
+#EXTINF:-1,DE: DISCOVERY HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187744
+#EXTINF:-1,DE: E! ENTERTAINMENT HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187745
+#EXTINF:-1,DE: HISTORY HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187746
+#EXTINF:-1,DE: NATGEO HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187747
+#EXTINF:-1,DE: NAT GEO WILD HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187748
+#EXTINF:-1,DE: TLC HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187749
+#EXTINF:-1,DE: RTL LIVING
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187750
+#EXTINF:-1,DE: SPIEGEL GESCHICHTE HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187751
+#EXTINF:-1,DE: DELUXE MUSIC HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187752
+#EXTINF:-1,DE: 123TV HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187754
+#EXTINF:-1,DE: HSE24 EXTRA HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187755
+#EXTINF:-1,DE: HSE24 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187756
+#EXTINF:-1,DE: JUWELO HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187757
+#EXTINF:-1,DE: MDR S-ANHALT HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187758
+#EXTINF:-1,DE: MDR SACHSEN HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187759
+#EXTINF:-1,DE: NDR FS HH HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187760
+#EXTINF:-1,DE: NDR FS MV HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187761
+#EXTINF:-1,DE: NDR FS NDS HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187762
+#EXTINF:-1,DE: NDR FS SH HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187763
+#EXTINF:-1,DE: NITRO
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187764
+#EXTINF:-1,DE: PEARL.TV HD SHOP
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187765
+#EXTINF:-1,DE: QVC HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187766
+#EXTINF:-1,DE: QVC2 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187767
+#EXTINF:-1,DE: SERVUSTV HD DEUTSCHLAND
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187768
+#EXTINF:-1,DE: RBB BERLIN HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187769
+#EXTINF:-1,DE: RBB BRANDENBURG HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187770
+#EXTINF:-1,DE: SONNENKLAR.TV HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187771
+#EXTINF:-1,DE: SWR FERNSEHEN BW
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187772
+#EXTINF:-1,DE: WDR HD AACHEN
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187773
+#EXTINF:-1,DE: WDR HD BONN
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187774
+#EXTINF:-1,DE: WDR HD DUISBURG
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187775
+#EXTINF:-1,DE: WDR HD WUPPERTAL
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187776
+#EXTINF:-1,DE: BOOMERANG
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187778
+#EXTINF:-1,DE: BABY TV HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187779
+#EXTINF:-1,DE: SUPER RTL
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187780
+#EXTINF:-1,DE: DISNEY CHANNEL HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187782
+#EXTINF:-1,DE: KIKA
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187783
+#EXTINF:-1,DE: DISNEY CINEMAGIC HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187784
+#EXTINF:-1,DE: COMEDY CENTRAL
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187785
+#EXTINF:-1,DE: NICK+ /MTV
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187786
+#EXTINF:-1,DE: N-TV
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187788
+#EXTINF:-1,DE: N-TV HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187789
+#EXTINF:-1,DE: N24
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187790
+#EXTINF:-1,DE: EURONEWS FRENCH
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187791
+#EXTINF:-1,DE: EURONEWS GERMAN
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187792
+#EXTINF:-1,DE: WELT HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187793
+#EXTINF:-1,DE: SYFY HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187795
+#EXTINF:-1,DE: TNT SERIE HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187796
+#EXTINF:-1,DE: FOX HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187797
+#EXTINF:-1,DE: 13TH STREET HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187798
+#EXTINF:-1,DE: HEIMATKANAL
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187799
+#EXTINF:-1,DE: KINOWELT TV
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187800
+#EXTINF:-1,DE: RTL CRIME HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187801
+#EXTINF:-1,DE: RTL PASSION HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187802
+#EXTINF:-1,DE: ROMANCE TV
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187803
+#EXTINF:-1,DE: SKY CINEMA PREMIEREN  24 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187805
+#EXTINF:-1,DE: SKY ATLANTIC HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187806
+#EXTINF:-1,DE: SKY CINEMA CLASSIC
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187807
+#EXTINF:-1,DE: SKY CINEMA +24 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187808
+#EXTINF:-1,DE: SKY CINEMA ACTION HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187809
+#EXTINF:-1,DE: SKY CINEMA ACTION
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187810
+#EXTINF:-1,DE: SKY CINEMA COMEDY
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187811
+#EXTINF:-1,DE: SKY CINEMA EMOTION
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187812
+#EXTINF:-1,DE: SKY CINEMA FAMILY
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187813
+#EXTINF:-1,DE: SKY CINEMA PREMIEREN HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187814
+#EXTINF:-1,DE: SKY CINEMA PREMIEREN
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187815
+#EXTINF:-1,DE: Sky Cinema Fun
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187816
+#EXTINF:-1,DE: SKY CINEMA THRILLER HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187817
+#EXTINF:-1,DE: SKY CINEMA SPECIAL HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187818
+#EXTINF:-1,DE: SKY CINEMA FAMILY HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187819
+#EXTINF:-1,DE: SKY KRIMI
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187820
+#EXTINF:-1,DE: SKY BEST OF
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187821
+#EXTINF:-1,DE: SKY ONE HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187822
+#EXTINF:-1,DE: TNT COMEDY HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187823
+#EXTINF:-1,DE: TNT FILM HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187824
+#EXTINF:-1,DE: UNIVERSAL CHANNEL HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187825
+#EXTINF:-1,DE: SKY SELECT 1 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187827
+#EXTINF:-1,DE: SKY SELECT 2 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187828
+#EXTINF:-1,DE: SKY SELECT 3 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187829
+#EXTINF:-1,DE: SKY SELECT 4 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187830
+#EXTINF:-1,DE: SKY SELECT 5 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187831
+#EXTINF:-1,DE: SKY SELECT 6 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187832
+#EXTINF:-1,DE: SKY SELECT 7 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187833
+#EXTINF:-1,DE: SKY SELECT 8 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187834
+#EXTINF:-1,DE: SKY SELECT 9 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187835
+#EXTINF:-1,DE: SKY BEST OF HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187836
+#EXTINF:-1,DE: FILMCLUB 1 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187837
+#EXTINF:-1,DE: FILMCLUB 2 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187838
+#EXTINF:-1,DE: FILMCLUB 3 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187839
+#EXTINF:-1,DE: FILMCLUB 4 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187840
+#EXTINF:-1,DE: FILMCLUB 5 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187841
+#EXTINF:-1,DE: FILMCLUB 6 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187842
+#EXTINF:-1,DE: SKY POPCORN SELECT 1 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187843
+#EXTINF:-1,DE: SKY POPCORN SELECT 2 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187844
+#EXTINF:-1,DE: SKY POPCORN SELECT 3 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187845
+#EXTINF:-1,DE: SKY POPCORN SELECT 4 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187846
+#EXTINF:-1,DE: SKY POPCORN SELECT 5 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187847
+#EXTINF:-1,DE: SKY POPCORN SELECT 6 HD
+http://lapusqeria.ddns.net:2052/Silvia/Silvia/187848
